@@ -11,7 +11,7 @@ Based on the "John Lemon's Haunted Jaunt: 3D Beginner" Unity 3D tutorial.
 
 ## Contributions
 
-Ben did the Player Characters Part 1 and 2 sections, along with teh linear interpolation addition
+Ben did the Player Characters Part 1 and 2 sections, along with the linear interpolation addition
 
 Matt did Enemies Part 1 and 2 sections, along with the dot product addition
 
