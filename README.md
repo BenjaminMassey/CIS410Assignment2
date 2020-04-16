@@ -37,4 +37,9 @@ the black around the lens will intensify.
 
 ## Particle Effect
 
-Added element that uses particle effect.
+Added a trail to the ghosts that is emitted when they walk.
+
+Its implemented in the /Assets/Prefabs/Ghost.prefab
+
+It uses a particle system to create a trail attached to the ghost's tail,
+to show the player where the ghosts have been walking recently.
