@@ -19,7 +19,13 @@ Michael did The Camera, Ending the Game and Audio sections, along with the parti
 
 ## Dot Product
 
-Added element that uses dot product.
+Added a text display in the top left corner that shows how close the player is to the location that ends the game.
+
+this is implemented in /Assets/Scripts/PlayerMovement.cs
+
+This is done by taking the difference of the transformation vector of the GameEnding object and the JohnLemon object,
+creating the vector between them, and then taking the dot product of itself and square rooting it to find the distance 
+via dot product
 
 ## Linear Interpolation
 
